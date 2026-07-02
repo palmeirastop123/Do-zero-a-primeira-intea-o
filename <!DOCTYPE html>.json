@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blue Lock - O Anime do Futebol</title>
+</head>
+<body>
+
+    <header>
+        <h1> Blue Lock - O Anime do Futebol </h1>
+        <p>Conheca o projeto que busca criar o melhor atacante do mundo.</p>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>O que e Blue Lock?</h2>
+
+            <p>
+                <strong>Blue Lock</strong> e um anime e manga de futebol que acompanha um
+                grupo de jovens atacantes japoneses reunidos em um treinamento extremamente competitivo.
+                O objetivo e descobrir quem possui o maior talento e o espirito mais competitivo para
+                representar o Japao.
+            </p>
+        </section>
+
+        <section>
+            <h2>Personagens Principais</h2>
+
+            <p>
+                O protagonista <strong>Yoichi Isagi</strong> e um jogador que busca evoluir a
+                cada partida. Entre seus principais rivais estao
+                <em>Rin Itoshi</em>, conhecido por sua incrivel habilidade tecnica,
+                e <em>Meguru Bachira</em>, famoso por sua criatividade e dribles imprevisiveis.
+            </p>
+
+            <p>
+                O anime mostra que vencer depende nao apenas do trabalho em equipe,
+                mas tambem da confianca em si mesmo e da vontade de ser o melhor.
+                Essa mistura de acao, estrategia e emocao faz de <strong>Blue Lock</strong>
+                uma das obras esportivas mais populares da atualidade.
+            </p>
+        </section>
+
+    </main>
+
+</body>
+</html>
